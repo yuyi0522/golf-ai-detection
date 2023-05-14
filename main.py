@@ -6,7 +6,7 @@ from keras.models import save, load_model
 from model_build import model_build
 
 data_df_list = []
-csv_path = "./src/csv/"
+csv_path = ".csv/"
 n = 0
 df_name = []
 for file in os.listdir(csv_path):
