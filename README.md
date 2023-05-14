@@ -5,8 +5,12 @@
 ## How does it work?
 Record your seing video in front angle and give it to the Model,it will predict the correct body angle and body displacement.  
 After that it will compare the predictive value with your actual value,and give you your score,which mean your swing is good or bad.  
+
+
 _Dectection_  
-![detect](https://github.com/yuyi0522/golf-ai-detection/blob/main/detection.png "detecting")
+![detect](https://github.com/yuyi0522/golf-ai-detection/blob/main/detection.png "detecting")  
+
+
 _Compare_
 | correct | wrong |
 |-------|:-----:|
